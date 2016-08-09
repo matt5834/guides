@@ -1,0 +1,23 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Teacher Guides
+    output: web
+    folderitems:
+    - title: Welcome
+      url: /index.html
+      output: web  
+    - title: Quickstart
+      url: /quickstart.html
+      output: web  
+    - title: Music Works 1
+      url: /progressive_approach.md
+      output: web
+    - title: Music Works 2
+      url: //p2_landing_page.html
+      output: web
+    
