@@ -4,14 +4,16 @@ topnav:
 - title: Topnav
   items:
     - title: Quick Start
-      url: /enrollment.html
+      url: /quickstart.html
     - title: Music Works 1
       url: /progressive_approach.html 
+    - title: Music Works 2
+      url: /mw2home.html
 
 
 #Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
+#topnav_dropdowns:
+#- title: Topnav dropdowns
   folders:
     - title: Jekyll Resources
       folderitems:
