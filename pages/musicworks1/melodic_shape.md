@@ -3,7 +3,7 @@ title: Melodic Shape
 sidebar: product1_sidebar
 keywords: pedagogy, philosophy
 summary: "See below for info and tips on teaching the Music Works 1 lessons that have to do with Melody. "
-permalink: melodic_shape.md
+permalink: melodic_shape.html
 folder: musicworks1
 ---
 

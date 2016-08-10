@@ -2,7 +2,7 @@
 title: Form
 sidebar: product1_sidebar
 keywords: pedagogy, melody,form
-permalink: form.md
+permalink: form.html
 folder: musicworks1
 ---
 

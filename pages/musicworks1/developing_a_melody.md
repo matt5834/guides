@@ -2,7 +2,7 @@
 title: Developing a Melody
 sidebar: product1_sidebar
 keywords: pedagogy, melody,staff
-permalink: developing_a_melody.md
+permalink: developing_a_melody.html
 folder: musicworks1
 ---
 

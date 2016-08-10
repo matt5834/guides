@@ -2,7 +2,7 @@
 title: Using the Staff
 sidebar: product1_sidebar
 keywords: pedagogy, melody,staff
-permalink: using_the_staff.md
+permalink: using_the_staff.html
 folder: musicworks1
 ---
 

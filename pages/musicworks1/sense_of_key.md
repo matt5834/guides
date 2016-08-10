@@ -2,7 +2,7 @@
 title: Sense of Key
 sidebar: product1_sidebar
 keywords: pedagogy, melody
-permalink: sense_of_key.md
+permalink: sense_of_key.html
 folder: musicworks1
 ---
 

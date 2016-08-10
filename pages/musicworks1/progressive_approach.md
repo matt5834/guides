@@ -2,7 +2,7 @@
 title: A Progressive Approach
 sidebar: product1_sidebar
 keywords: pedagogy, philosophy
-permalink: progressive_approach.md
+permalink: progressive_approach.html
 toc: false
 folder: musicworks1
 ---
