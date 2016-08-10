@@ -101,4 +101,8 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
+<<<<<<< HEAD
 url: matt5834.github.io: /guides
+=======
+url: http://idratherbewriting.com
+>>>>>>> f20ad906ec8a229a202508d119efad8728e602fb
