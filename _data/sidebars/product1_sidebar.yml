@@ -24,23 +24,23 @@ entries:
     output: web, pdf
     folderitems:
     - title: Philosophy
-      url: /progressive_approach.md
+      url: /progressive_approach.html
       output: web
 
     - title: Melodic Shape
-      url: /melodic_shape.md
+      url: /melodic_shape.html
       output: web, pdf
 
     - title: Sense of Key
-      url: /sense_of_key.md
+      url: /sense_of_key.html
       output: web, pdf
 
     - title: Using the Staff
-      url: /using_the_staff.md
+      url: /using_the_staff.html
       output: web, pdf
 
     - title: Developing a Melody
-      url: /developing_a_melody.md
+      url: /developing_a_melody.html
       output: web, pdf
 
   - title: Another heading
