@@ -63,3 +63,7 @@ Your piece might look something like this:
 Post a reply to the topic on Form here:  <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/giving-your-piece-a-b-a-form/56?u=matt"><i class="fa fa-weixin"></i> Talk about Form!</a>
 
 Do you have any thoughts about this lesson step? Share any experiences about how your students put their piece into A-B-A form. 
+
+
+
+{% include links.html %}

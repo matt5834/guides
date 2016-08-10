@@ -68,3 +68,6 @@ Obviously using aQWERTYon is a great way for students to explore different kinds
 ### Feedback
 Leave a comment on the topic about this lesson step here: <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/creating-a-singable-memorable-melody/24?u=matt"><i class="fa fa-weixin"></i> Feedback</a> What do you think might happen when your students attempt this step? If you are doing this with your students let us know how it went!
 
+
+{% include links.html %}
+

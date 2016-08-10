@@ -52,3 +52,5 @@ A great warm up/beginning of class activity as students enter the classroom is t
 ## Feedback 
 See this topic on the YCIW teacher forum for more ideas.  <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/techniques-for-developing-a-melody/33?u=matt"><i class="fa fa-weixin"></i> Develop a Melody Topic</a>
 Let us know if you have any thoughts about this step. If you're doing this with your students did they find anything that was difficult? Helpful?
+
+{% include links.html %}

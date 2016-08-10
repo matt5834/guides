@@ -17,3 +17,6 @@ We want to spend little to no time teaching the the notes of the staff. Instead 
 ## Using the Alpha Keyboard
 
 For students who may be new to reading notes on the staff remind them often about using the letters on the computer keyboard to enter notes. Pressing G will result in a G being placed on the staff, etc.  
+
+
+{% include links.html %}

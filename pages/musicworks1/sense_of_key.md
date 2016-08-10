@@ -19,3 +19,6 @@ Often a student will add sharps or flats to her melody. When this happens invest
 
 {% include callout.html content="**Classroom Activity** <br>
 Lead the entire class in singing a favorite song -preferably with a melody that ends on the tonic. Sing the song once normally. Repeat the rendition but this time ask the class to stop singing just before the final note. When you come to the silence prompt them to hear the final note in their mind's ear.  After a generous pause cue everyone to sing the final note. Facilitate a conversation about why it may have been so easy for most students to clearly hear the final note in their mind. Explore the reasons why there might have been a strong pull to that particular home note. " type="primary" %} 
+
+
+{% include links.html %}
