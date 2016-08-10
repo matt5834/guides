@@ -1,0 +1,64 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Music Works
+  version: 1
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+
+  - title: Getting Started
+    output: web, pdf
+    folderitems:
+    - title: Philosophy
+      url: /progressive_approach.md
+      output: web
+
+    - title: Melodic Shape
+      url: /melodic_shape.md
+      output: web, pdf
+
+    - title: Sense of Key
+      url: /sense_of_key.md
+      output: web, pdf
+
+    - title: Using the Staff
+      url: /using_the_staff.md
+      output: web, pdf
+
+    - title: Developing a Melody
+      url: /developing_a_melody.md
+      output: web, pdf
+
+  - title: Another heading
+    output: web, pdf
+
+    folderitems:
+    - title: Sample 4
+      url: /p1_sample4.html
+      output: web, pdf
+
+    - title: Sample 5
+      url: /p1_sample5.html
+      output: web, pdf
+
+    - title: Sample 6
+      url: /p1_sample6.html
+      output: web, pdf
+
+    - title: Sample 7
+      url: /p1_sample7.html
+      output: web, pdf
