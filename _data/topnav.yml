@@ -4,9 +4,9 @@ topnav:
 - title: Topnav
   items:
     - title: Quick Start
-      url: /enrollment.md
+      url: /enrollment.html
     - title: Music Works 1
-      url: /progressive_approach.md  
+      url: /progressive_approach.html 
 
 
 #Topnav dropdowns

@@ -15,7 +15,7 @@ entries:
       url: /quickstart.html
       output: web  
     - title: Music Works 1
-      url: /progressive_approach.md
+      url: /progressive_approach.html
       output: web
     - title: Music Works 2
       url: //p2_landing_page.html
