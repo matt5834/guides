@@ -35,44 +35,40 @@ We find that **texture** is one of those open ended concepts that all learners c
 
 ## It's About the Texture!
 
-If the 2nd instrument uses consonant intervals and yet it still does not fit well with the student's main melody it is likely because of the rhythm. To keep your main melody prominent have your second instrument sound like a background part.  **Repetition** has a lot to do with making a part move into the background. As a rhythm repeats it frees up our brain to focus on other melodies. 
+If the 2nd instrument uses consonant intervals and yet it still does not fit well with the student's main melody it is likely because of the rhythm. To keep a main melody prominent have the second instrument sound like a background part.  **Repetition** has a lot to do with making a part move into the background. As a rhythm repeats it frees up our brain to focus on other melodies. 
 
 {% include tip.html content="<br>Ask your students to think of your favorite song with a drum beat. Notice how you can still hear the beat even though you're able to sing along with the melody.      " %}
 
 
+Students will often need to revise their piece after creating their 2nd instrument. Students having difficulty should try using a repetitive rhythm!  A helpful technique for creating background parts is to use a regular pattern of rests. **Sometimes taking away notes and using rests can work better than adding notes!**
 
-
-Go back to your composition and make any changes in your 2nd instrument to make it sound more like a background part. Try using a repetitive rhythm!  A helpful technique for creating background parts is to use a regular pattern of rests. **Sometimes taking away notes and using rests can work better than adding notes!**
-
-
-<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"target="_blank"><i class="fa fa-music"></i> Go to My Piece and Adjust 2nd Instrument</a>
-
-
-
-##Music Lingo
-So what about this notion of texture? It can be helpful to know which texture you are trying to create as this will help you organize all of your instruments. The musical texture we used above, one that has a clear background part that supports a main melody, is called a **homophonic texture.**  (There are two kinds of homophonic texture but we will focus on this one.)  The three main textures that we will be concerned with are:
+## Monophony, Homophony & Polyphony  
+It can be helpful for students to know which texture they are trying to create as this will help them organize all of their instruments. The texture lesson covers <span class="label label-info">Monophony</span>, <span class="label label-info">Homophony</span> and <span class="label label-info">Polyphony</span>. The musical texture we used above, one that has a clear background part that supports a main melody, is  **homophonic texture.**  (There are two kinds of homophonic texture but we will focus on this one.)  The three main textures that we will be concerned with are:
 
 * Homophonic Texture:  a clear background part that supports a main melody
 * Monophonic Texture: a single melody played by one instrument or many
 * Polyphonic Texture: more than one independent melody sounding at the same time
 
 
-##Changing Textures
-Switching between different textures will increase the complexity of your music. Next choose a different texture that you'd like to use and compose a part for your 2nd instrument to play in your B section. 
+## Changing Textures for B Section
+Switching between different textures will increase the complexity of the student's music.
+{% include tip.html content="**Change Texture for B Section** <br>Ask students to use include a texture they did not use in their A section.      " %}  
 
 
-<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"target="_blank"><i class="fa fa-music"></i> Add a 2nd Part to My B Section</a>
+<br>
+<br>
 
+<h2><span class="label label-success">Classroom Activity</span></h2>
 
-###Classroom Activity
->Working in pairs or small groups on classroom instruments, iPads or band instruments students will perform all three textures: **monophony, homophony and polyphony.**  Give students time to compose short examples of each and then perform them for the class. During the class performance ask students what texture they are hearing. 
+>Working in pairs or small groups on classroom instruments, iPads, aQWERTyon or band instruments students will perform all three textures: **monophony, homophony and polyphony.**  Give students time to compose short examples of each and then perform them for the class. During the class performance ask students what texture they are hearing. 
 
 
 Here is a group's example of homophony:
 <iframe src="//player.vimeo.com/video/115907107" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-___
-##Feedback
-Visit the topic about texture here:  <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/texture-importance-of-homophonic-texture/60?u=matt"><i class="fa fa-weixin"></i> Talk about Texture!</a> 
+
+## Feedback
+
+Visit the topic about texture to read about perspectives from other teachers:  <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/texture-importance-of-homophonic-texture/60?u=matt"><i class="fa fa-weixin"></i> Talk about Texture!</a> 
 
 Post a reply sharing your thoughts and ideas. Have you had any experiences with students regarding texture? Have you tried any of the class activities regarding texture?

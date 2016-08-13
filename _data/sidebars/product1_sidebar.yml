@@ -43,6 +43,10 @@ entries:
       url: /developing_a_melody.html
       output: web, pdf
 
+    - title: Form
+      url: /form.html
+      output: web, pdf  
+
   - title: Harmony
     output: web, pdf
 
@@ -55,10 +59,14 @@ entries:
       url: /resolution.html
       output: web, pdf
 
-    - title: Add A 2nd Instrument
+    - title: Add 2nd Instrument
       url: /add_2nd_instrument.html
       output: web, pdf
 
-    - title: Sample 7
-      url: /p1_sample7.html
+    - title: Add 3rd Instrument
+      url: /add_3rd_instrument.html
+      output: web, pdf
+
+    - title: Intervals That Are 2 Skips 
+      url: /leaps.html
       output: web, pdf

@@ -1,6 +1,6 @@
 ---
 title: QuickStart
-sidebar: home_sidebar
+sidebar: mw1_sidebar
 keywords: news, blog, updates, release notes, announcements
 permalink: quickstart.html
 toc: false

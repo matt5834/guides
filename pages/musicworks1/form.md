@@ -7,51 +7,22 @@ folder: musicworks1
 ---
 
 # Form
-Are you tempted to add other instruments to your piece? Don't do it yet! We find that young composers do best when they develop a large chunk of the form for their piece by thinking linearly with only one instrument at first. (We'll tackle harmony soon enough!)
+After creating a main melody, students are often tempted to begin adding other instruments.  We find that young composers do best when they develop a large chunk of the form for their piece by thinking linearly with only one instrument at first. 
 
-However you may be getting bored of just hearing the piano
-so let's go ahead and change the instrument.
-Click on the first measure of your melody and go to the Staff Menu. Select **Change Instrument**
+{% include callout.html content="**Important Concept** <br>When creating a new section in a piece of music it needs to sound different enough from previous sections. This allows the listener to understand that the composer has moved to a new section.  " type="info" %} 
 
-![changeInstrument.png]({{site.baseurl}}/img/changeInstrument.png)
-
-###Which Instruments
-You could choose any instrument you'd like. However, participants in YCIW will be given the list of instrumentation for each particular workshop. 
-
-###Working with Bass Clef
-For many young composers, working with bass clef provides another level of complexity that can be overwhelming. If you choose a bass clef instrument like the cello or bassoon switch the clef to Treble-down 1 octave. This will allow you to work in treble clef but hear the notes lower. 
+{% include tip.html content="**Helping Students Create a Contrasting Melody** <br>Try using a totally different melodic shape. <br> Experiment with different rhythms.    " %} 
 
 
-**Select the entire staff by double clicking on it.**
 
 
-![selectStaff.png]({{site.baseurl}}/img/selectStaff.png)
----
+## A-B-A Form
 
+After creating a new contrasting B section students can easily put their piece into A-B-A form simply by copying their A section and pasting it after the B section. (Copying and pasting in Noteflight is super easy. Just highlight the measures and go to the Edit menu to copy and paste.)
 
-**Under the Measure menu click the treble clef with the small 8 beneath it**
+## Adding Colors
 
-![selectOctave.png]({{site.baseurl}}/img/selectOctave.png)
-
-
----
-
-###Now back to Form...
-
-Now that you have a new instrument let's continue with giving our piece *form.*
-
-
-For the listener to hear a new section in your piece you need to make a section that sounds different. Create a new melody in your piece that is **contrasting.**  Try using a totally different melodic shape or experiment with different rhythms. This new melody should be about 4 measures long. Try developing this new melody by using a variation or a sequence. 
-
-<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"target="_blank"><i class="fa fa-music"></i>Add a new Melody to my piece</a>
-
-##A-B-A Form
-
-Your piece should now have two different sections: a first main melody that is repeated once and a second melody that is also repeated. You composition is probably now about 16 measures long. We can call the first section *A* and the second section *B.*  You can easily put your piece into A-B-A form simply by copying your A section and pasting it after the B section. (Copying and pasting in Noteflight is super easy. Just highlight the measures and go to the Edit menu to copy and paste.)
-
-## Add Some Color
-You can help show your form by coloring the notes of the A section blue and the B section green. 
-Your piece might look something like this:
+Using colors in Noteflight can be an extremely 
 
 
 

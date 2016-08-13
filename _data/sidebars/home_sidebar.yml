@@ -12,7 +12,7 @@ entries:
       url: /index.html
       output: web  
     - title: Quickstart
-      url: /quickstart.html
+      url: /quickstart1.html
       output: web  
     - title: Music Works 1
       url: /progressive_approach.html

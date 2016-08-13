@@ -23,5 +23,12 @@ Dissonances are not bad. The important thing is to know how to control them. We 
 
 The aQWERTYon practice lessons are a great way for students to practice combining two voices. Help students play both consonant intervals as well as dissonant intervals that resolve according to the principle above. 
 
-{% include callout.html content="**Classroom Activity** <br>Working in pairs have students play short melodies on iPads, isntruments or with aQWERTYon. While student 1 plays a melody, student 2 should first try playing all consonant intervals. For other attempts student 2 can play a second part that has a dissonant interval resolving to a consonance. " type="default" %}
+<h2><span class="label label-success">Classroom Activity</span></h2>
+<br>
+
+
+>Working in pairs have students play short melodies on iPads, isntruments or with aQWERTYon. While student 1 plays a melody, student 2 should first try playing all consonant intervals. For other attempts student 2 can play a second part that has a dissonant interval resolving to a consonance.
+
+
+
 
