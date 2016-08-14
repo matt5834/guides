@@ -31,6 +31,10 @@ entries:
       url: /melodic_shape.html
       output: web, pdf
 
+    - title: Building a Singable, Memorable Melody
+      url: /bsm.html
+      output: web, pdf  
+
     - title: Sense of Key
       url: /sense_of_key.html
       output: web, pdf
