@@ -65,7 +65,6 @@ entries:
 
   - title: Harmony
     output: web, pdf
-
     folderitems:
     - title: Putting Notes Together
       url: /putting_notes_together.html
@@ -86,3 +85,11 @@ entries:
     - title: Intervals That Are 2 Skips 
       url: /leaps.html
       output: web, pdf
+
+  - title: Texture
+    output: web, pdf 
+    folderitems: 
+
+    - title: Importance of Texture 
+      url: /importance_of_texture.html
+      output: web, pdf  

@@ -25,9 +25,11 @@ To this point not much attention has been paid to rhythm. Students should be enc
 ### Memorable
 Of course we want students to creat a smooth melodic shape for their main melody. Remind students that they can acheive this by using notes that move mostly be step with ocassiona skips and leaps. 
 
-## Classroom Activity
 
-{% include callout.html content="**Classroom Activity** <br>The majority of learning happens when students listen to each others work during a classtime discussion. After students have completed this assignment either at home or during class time it is highly recommended that teachers choose a handful of pieces to display on a classroom projector or smartBoard. Often playing the student example followed by the question **Is Suzies main melody singable and memorable?** will be enough to facilitate a discussion from which all can learn. You may want to include the class in helping a student correct any errors.   " type="primary" %} 
+
+<h2><span class="label label-success">Classroom Activity</span></h2>
+
+>The majority of learning happens when students listen to each others work during a classtime discussion. After students have completed this assignment either at home or during class time it is highly recommended that teachers choose a handful of pieces to display on a classroom projector or smartBoard. Often playing the student example followed by the question **Is Suzies main melody singable and memorable?** will be enough to facilitate a discussion from which all can learn. You may want to include the class in helping a student correct any errors.
 
 ## Creating a Safe Environment
 
