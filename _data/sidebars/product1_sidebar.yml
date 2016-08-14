@@ -51,6 +51,10 @@ entries:
       url: /using_the_staff.html
       output: web, pdf
 
+    - title: Begin Your Composition
+      url: /begin_your_composition.html
+      output: web, pdf  
+
     - title: Developing a Melody
       url: /developing_a_melody.html
       output: web, pdf
