@@ -92,4 +92,24 @@ entries:
 
     - title: Importance of Texture 
       url: /importance_of_texture.html
-      output: web, pdf  
+      output: web, pdf 
+
+  - title: Finishing the Composition
+    output: web, pdf 
+    folderitems: 
+
+    - title: Add an Ending
+      url: /add_an_ending.html
+      output: web, pdf
+
+    - title: Dynamics
+      url: /dynamics.html
+      output: web, pdf
+
+    - title: Articulations
+      url: /articulations.html
+      output: web, pdf 
+
+    - title: 6 Instruments
+      url: /6_instruments.html
+      output: web, pdf           
