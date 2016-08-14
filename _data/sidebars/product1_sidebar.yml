@@ -35,6 +35,10 @@ entries:
       url: /bsm.html
       output: web, pdf 
 
+    - title: aQWERTYon and Noteflight
+      url: /aqwertyon_with_noteflight.html
+      output: web, pdf  
+
     - title: Musical Alphabet
       url: /musical_alphabet.html
       output: web, pdf   
