@@ -19,9 +19,19 @@ entries:
     - title: Add Student Roster
       url: /enrollment.html
       output: web
+
+  - title: Using YCIW Classroom
+    output: web
+    folderitems:    
     - title: Dashboard
       url: /dashboard.html
       output: web 
+    - title: Setting Assignment Due Dates
+      url: /setting_assignment_dates.html
+      output: web 
+    - title: Using Student View
+      url: /using_student_view.html
+      output: web   
             
    
     
