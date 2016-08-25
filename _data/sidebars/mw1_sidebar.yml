@@ -19,6 +19,12 @@ entries:
     - title: Add Student Roster
       url: /enrollment.html
       output: web
+    - title: Setting Up Notifications
+      url: /notifications.html
+      output: web  
+    - title: Submit a Help Request
+      url: /submittin_help_requests.html
+      output: web  
 
   - title: Using YCIW Classroom
     output: web
@@ -31,7 +37,15 @@ entries:
       output: web 
     - title: Using Student View
       url: /using_student_view.html
-      output: web   
+      output: web
+    - title: Grading Assignments
+      url: /grading_assignments.html
+      output: web 
+    - title: Receiving Composer Comments
+      url: /receiving_composer_mentoring.html
+      output: web  
+
+
             
    
     
