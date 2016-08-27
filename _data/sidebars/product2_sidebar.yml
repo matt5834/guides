@@ -23,8 +23,20 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Technical Requirements
+      url: /technical_info.html
+      output: web  
+
     - title: Overview
       url: /mw2home.html
       output: web
+
+  - title: Chords
+    output: web, pdf
+    folderitems: 
+    
+    - title: 3 Note Chords
+      url: /3_note_chords.html
+      output: web   
 
   
