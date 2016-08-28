@@ -1,5 +1,5 @@
 ---
-title: Play 3-Note Chords
+title: Play 3 Note Chords
 sidebar: product2_sidebar
 keywords: pedagogy, philosophy
 permalink: play_3_note_chords.html
