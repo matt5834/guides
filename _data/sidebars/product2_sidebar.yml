@@ -37,6 +37,10 @@ entries:
     
     - title: 3 Note Chords
       url: /3_note_chords.html
-      output: web   
+      output: web  
+
+    - title: Play 3 Note Chords
+      url: /play_3_note_chords.html
+      output: web    
 
   
