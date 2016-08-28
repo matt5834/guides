@@ -41,6 +41,38 @@ entries:
 
     - title: Play 3 Note Chords
       url: /play_3_note_chords.html
-      output: web    
+      output: web 
+
+    - title: aQWERTYon and Noteflight
+      url: /aqwertyon_and_noteflight.html
+      output: web 
+
+    - title: Build 3 Note Chords
+      url: /build_3_note_chords.html
+      output: web  
+
+    - title: Diatonic Chords
+      url: /diatonic_chords.html
+      output: web   
+
+    - title: Chord Progressions
+      url: /chord_progressions.html
+      output: web  
+
+    - title: Play A Minor and D Minor
+      url: /play_a_minor_d_minor.html
+      output: web 
+
+    - title: Let It Be
+      url: /let_it_be.html
+      output: web 
+
+    - title: Begin Composition 2
+      url: /begin_composition_2.html
+      output: web        
+
+
+
+
 
   
