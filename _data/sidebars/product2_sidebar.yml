@@ -69,7 +69,39 @@ entries:
 
     - title: Begin Composition 2
       url: /begin_composition_2.html
-      output: web        
+      output: web
+
+  - title: Melody and Chords
+    output: web, pdf
+    folderitems:
+    
+    - title: Melody and Chords
+      url: /melody_and_chords.html
+      output: web 
+
+    - title: Notating a Melody
+      url: /notating_a_melody.html
+      output: web 
+
+    - title: Melody and Chords Noteflight 1
+      url: /melody_and_chords_1.html
+      output: web
+      
+    - title: Melody and Chords Noteflight 2
+      url: /melody_and_chords_2.html
+      output: web
+      
+    - title: Add a Melody to Your Chord Progression
+      url: /add_a_melody_to_your_chord_progression.html
+      output: web
+      
+    - title: Orchestrating a Chord Progression
+      url: /orchestrating_a_chord_progression.html
+      output: web
+      
+    - title: Orchestrate This Chord Progression
+      url: /orchestrate_this_chord_progression.html
+      output: web                       
 
 
 
