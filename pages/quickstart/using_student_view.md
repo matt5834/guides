@@ -8,7 +8,7 @@ folder: quickstart
 ---
 
 ## Why and When to Use Student View
-Using Student View allows the teacher to edit Noteflight assignments for demonstration purposes. When not in Student View the teacher will not be able to move notes or make any other edits to a Noteflight assignment score. The teacher will need to use Student View when wanting to model or demonstrate something on a Noteflight asignemnts for the class. This is usually done using some kind of projection unit or smartBoard. 
+Using Student View allows the teacher to edit Noteflight assignments for demonstration purposes. When not in Student View the teacher will not be able to move notes or make any other edits to a Noteflight assignment score. The teacher will need to use Student View when wanting to model or demonstrate something on a Noteflight asignments for the class. This is usually done using some kind of projection unit or smartBoard. 
 
 ## How to Access Student View
 

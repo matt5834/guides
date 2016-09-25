@@ -16,5 +16,5 @@ Upon logging in teachers and students are taken to the YCIW Classroom Dashboard.
 {% include image.html file="courseStream.png" url="" alt="Jekyll" caption="Course Stream" %}
 **Students** can view important information in the Course Stream such as grades or feedback given and due dates for assignemnts. Students should be reminded to check this when they log in. 
 
-**Teachers** will see in the Course Stream all course activity such as submitted assignemnts and comments from students. 
+**Teachers** will see in the Course Stream all course activity such as submitted assignments and comments from students. 
 

@@ -7,7 +7,7 @@ permalink: grading_assignments.html
 folder: quickstart
 ---
 ## How Much Grading Should I Do?
-We know that giving grades and submitting comments on student work can seem very time consuming. We have made ever effort to minimize the time it takes teachers to review student submissions and provide grades. Our premade rubrics accompany all assignments and make grading go very quickly. 
+We know that giving grades and submitting comments on student work can seem very time consuming. We have made every effort to minimize the time it takes teachers to review student submissions and provide grades. Our premade rubrics accompany all assignments and make grading go very quickly. 
 
 ## Using the Speedgrader
 
