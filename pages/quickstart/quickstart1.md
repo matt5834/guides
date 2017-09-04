@@ -14,7 +14,7 @@ folder: quickstart
 {% include callout.html content="**Chrome Required Browser** <br>
 All of the YCIW Classroom materials are configured to work with the latest version of the Chrome web browser. Chrome is a free browser and can be installed on any computer. Chrome is the default browser on any Chromebook. Other browsers like Safari, Firefox or Netscape should not be used." type="primary"  %}
 
-### Turn On IAC Driver
+### Turn On IAC Driver -- OPTIONAL
 
 There are several web instruments that are important to the YCIW curriculum. These instruments include **aQWERTYon** and others. For these instruments to work properly the computer's IAC Driver needs to be turned **ON.** 
 
